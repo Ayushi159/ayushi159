@@ -4,16 +4,16 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: <span style="font-size:20px">Home</span>
     url: '#about'
     weight: 10
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  - name: Publications
+  - name: <span style="font-size:20px">Publications</span>
     url: '#featured'
     weight: 30
-  - name: Projects
+  - name: <span style="font-size:20px">Projects</span>
     url: '#projects'
     weight: 50
   # - name: Talks
@@ -22,7 +22,7 @@ main:
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
-  - name: Contact
+  - name: <span style="font-size:20px">Contact</span>
     url: '#contact'
     weight: 60
 
